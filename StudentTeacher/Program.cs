@@ -5,3 +5,7 @@ Console.WriteLine("Hello, World!");
 
 Teacher esmy = new Teacher(420,80000,25, "Esmy");
 esmy.yell();
+
+
+Student Ozzy = new Student(32.6, 5, 16, "Ozzy");
+Ozzy.day();
