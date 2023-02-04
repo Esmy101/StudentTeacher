@@ -12,7 +12,7 @@ namespace StudentTeacher
         public double mGPA;
         public int mClasses;
 
-        public Student(int age, string name): base(age, name) 
+        public Student(): base() 
         {
             mGPA = 0;
             mClasses = 0;
